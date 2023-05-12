@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋嗨！您好，我叫张骁，目前是一名计算机专业的硕士。懂一点后端知识，毕业后准备寻求一份JAVA开发的工作。
+### 🤔我比较喜欢折腾，熟悉但不精通于以下技能:Java、MySQL、SpringBoot、Mybatis、Redis、SpringCloud、Netty、RabbitMQ
+### 🌱出于自学和爱好，我会在GitHub中逐步更新记录我的学习内容，并开源一些小项目，我的期望是按自己喜欢研究一些有趣的东西，欢迎邮件或留言与我交流。
+### 📫邮箱号：1660756903@qq.com
+  
+
+
+
+
+
 
 <!--
 **goldenBuger/goldenBuger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
